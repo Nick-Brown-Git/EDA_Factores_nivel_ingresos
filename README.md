@@ -1,13 +1,13 @@
 # Exploratory Data Analysis – Adult Census Income
 
-## 📌 Descripción del proyecto
+## Descripción del proyecto
 Este proyecto consiste en un **Análisis Exploratorio de Datos (EDA)** realizado sobre el **Adult Census Income Dataset**, disponible en Kaggle. El objetivo del análisis es estudiar cómo distintas características **demográficas, educativas y laborales** se relacionan con el nivel de ingresos de los individuos.
 
 El estudio diferencia entre personas que ganan **≤50K** y **>50K** dólares anuales, centrándose en la identificación de patrones y relaciones entre variables, sin desarrollar modelos predictivos.
 
 ---
 
-## ❓ Hipótesis planteadas
+## Hipótesis planteadas
 Antes de realizar el análisis exploratorio, se formularon las siguientes hipótesis:
 
 - Un mayor nivel educativo aumenta la probabilidad de obtener ingresos superiores a 50K.
@@ -17,7 +17,7 @@ Antes de realizar el análisis exploratorio, se formularon las siguientes hipót
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - **Lenguaje:** Python  
 - **Librerías:**
   - pandas
@@ -28,7 +28,7 @@ Antes de realizar el análisis exploratorio, se formularon las siguientes hipót
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 ├── src/
 │   ├── data/
 │   │   ├── adult.csv
@@ -52,7 +52,7 @@ Antes de realizar el análisis exploratorio, se formularon las siguientes hipót
 
 ---
 
-## ▶️ Instrucciones de reproducción
+## Instrucciones de reproducción
 
 Para reproducir el análisis exploratorio de datos (EDA), es suficiente con ejecutar el notebook principal del proyecto.
 
@@ -65,7 +65,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 📊 Principales conclusiones
+## Principales conclusiones
 
 - El **nivel educativo** es el factor más fuertemente asociado al nivel de ingresos.
 - Existen diferencias significativas de ingresos según **sexo** y **estado civil**.
@@ -74,7 +74,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## 📄 Documentación del proyecto
+## Documentación del proyecto
 
 - **Memoria técnica:** `Memoria.pdf`  
 - **Presentación:** `Presentacion.pdf`
@@ -83,7 +83,7 @@ La memoria técnica documenta de forma detallada el proceso completo de análisi
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Nick Brown**
 
@@ -92,6 +92,6 @@ La memoria técnica documenta de forma detallada el proceso completo de análisi
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Este proyecto forma parte de un **portfolio de Data Science**, con el objetivo de demostrar la capacidad para realizar análisis exploratorios rigurosos, interpretar relaciones entre variables socioeconómicas y comunicar resultados de forma clara y estructurada.
